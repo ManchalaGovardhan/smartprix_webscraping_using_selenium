@@ -33,5 +33,4 @@ Product Links
 pip install selenium
 pip install beautifulsoup4
 pip install pandas
-▶️ Run Project
-python main.py
+
